@@ -10,6 +10,7 @@
     "deploy": "cd out && now --public",
     "now-build": "next build && next export -o dist"
   },
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
